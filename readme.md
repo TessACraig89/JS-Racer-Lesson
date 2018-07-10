@@ -1,6 +1,6 @@
 # <img src="https://cloud.githubusercontent.com/assets/7833470/10423298/ea833a68-7079-11e5-84f8-0a925ab96893.png" width="60"> JS RACER! 
 
-Your first interactive front end creation. 
+Your first interactive front end creation.
 
 **Read this entire document before writing a line of code.**
 
@@ -70,8 +70,8 @@ By the time you submit this project, you will have leveled-up in many big themes
 
 ###### Do you have any helpful advice?
 
-* **Break the project down into small, manageable pieces. and brainstorm each component individually. Use the whiteboard! Pseudo code! Write comments! 
-* **Use your development tools** (`console.log`, Chrome JavaScript console, Chrome debugger) to debug and solve problems. 
+* **Break the project down into small, manageable pieces. and brainstorm each component individually. Use the whiteboard! Pseudo code! Write comments!
+* **Use your development tools** (`console.log`, Chrome JavaScript console, Chrome debugger) to debug and solve problems.
 * Here is the [documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/debugger) for `debugger`
 * **Use your classmates as resources**. It is helpful to help others. Don't be afraid to ask for help!
 * **Commit early, and commit often**. Write commit messages that describe what you changed in each commit.
@@ -83,7 +83,7 @@ By the time you submit this project, you will have leveled-up in many big themes
 
 ###### How should I begin approaching this?
 
-* Create a **NEW GitHub repository** 
+* Create a **NEW GitHub repository**
 * You'll need an `index.html`, `style.css`, and `app.js`. Make sure your stylesheet and JavaScript files are linked in `index.html`.
 
 ---
@@ -94,7 +94,7 @@ By the time you submit this project, you will have leveled-up in many big themes
 
 These feature ideas are for "extra credit"! **Don't focus on them until you've hit the core requirements.**
 
-* Let the user know if player one or player two won! 
+* Let the user know if player one or player two won!
 * Keep track of **multiple game rounds** with a win counter.
 * Make it look amazing!
 * Allow **customized players** (name, symbol, color, avatar, etc.).
@@ -104,7 +104,7 @@ These feature ideas are for "extra credit"! **Don't focus on them until you've h
 * **Race against a bot**.
 * **Instant replay**: record yourself and then race against yourself, in real-time.
 * Integrate with a **3rd party API**: flickr, youtube, spotify, giphy, etc.
-* Whatever else your heart desires! 
+* Whatever else your heart desires!
 
 ---
 
@@ -126,7 +126,7 @@ You will get feedback by next Monday to review that morning!
 
 # CSS VIDEOS
 
-## Please also make sure you watch these videos on CSS: 
+## Please also make sure you watch these videos on CSS:
 
 1. Watch [this video](https://www.youtube.com/watch?v=HNgdhp1_kEE&index=6&list=PLdnONIhPScST0Vy4LrIZiYKpFNoxgyH7J) about box model.
 1. Watch [this video](https://www.youtube.com/watch?v=qjSe_K3agYc&index=7&list=PLdnONIhPScST0Vy4LrIZiYKpFNoxgyH7J) about display.
