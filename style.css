@@ -10,3 +10,12 @@
   background-color: red;
   margin-top: 5px;
 }
+
+#finishLine {
+  background-color: black;
+  height: 50px;
+  width: 10px;
+  position: relative;
+  left: 90%;
+  bottom: 45px;
+}
