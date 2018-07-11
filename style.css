@@ -1,0 +1,12 @@
+#player1 {
+  height: 20px;
+  width: 20px;
+  background-color: blue;
+}
+
+#player2 {
+  height: 20px;
+  width: 20px;
+  background-color: red;
+  margin-top: 5px;
+}
