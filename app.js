@@ -3,11 +3,10 @@ const player2 = document.getElementById("player2");
 
 let player1Pos = 0;
 let player2Pos = 0;
-let finishLinePos = window.screen.width - 100;
+let finishLinePos = window.innerWidth - 100;
 
 // set finishLine styled position to match the finishLinePos
 document.getElementById('finishLine').setAttribute("style", "left: " + finishLinePos + "px");
-//
 
 // target.addEventListener(type, listener[, options]);
 document.addEventListener('keypress', (event) => {
