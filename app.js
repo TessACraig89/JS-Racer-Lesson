@@ -17,4 +17,15 @@ document.addEventListener('keypress', (event) => {
     player2Pos = player2Pos + 25;
     player2.setAttribute("style", "left: " + player2Pos + "px");
   }
+  checkAndAnnounceWinner();
 });
+
+const checkAndAnnounceWinner = () => {
+  if (player1Pos >= finishLinePos && player2Pos >= finishLinePos && player1Pos === player2Pos) {
+    alert("Tie");
+  } else if (player1Pos >= finishLinePos) {
+    alert("player1 wins");
+  } else if (player2Pos >= finishLinePos) {
+    alert("player2 wins");
+  }
+};
